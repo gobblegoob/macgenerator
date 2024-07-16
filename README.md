@@ -146,9 +146,6 @@ python macgenerate.py [-h] [-c COUNT] [-d DELIMITER] [-r]
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] generate log file
-
-
 See the [open issues](https://github.com/gobblegoob/macgenerator/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
