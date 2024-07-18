@@ -199,11 +199,11 @@ Thank yous
 [forks-shield]: https://img.shields.io/github/forks/gobblegoob/macgenerator.svg?style=for-the-badge
 [forks-url]: https://github.com/gobblegoob/macgenerator/network/members
 [stars-shield]: https://img.shields.io/github/stars/gobblegoob/macgenerator.svg?style=for-the-badge
-[stars-url]: https://github.com/gobblegoob/gobblegoob/macgenerator/stargazers
+[stars-url]: https://github.com/gobblegoob/macgenerator/stargazers
 [issues-shield]: https://img.shields.io/github/issues/gobblegoob/macgenerator.svg?style=for-the-badge
-[issues-url]: https://github.com/gobblegoob/gobblegoob/macgenerator/issues
+[issues-url]: https://github.com/gobblegoob/macgenerator/issues
 [license-shield]: https://img.shields.io/github/license/gobblegoob/macgenerator.svg?style=for-the-badge
-[license-url]: https://github.com/gobblegoob/gobblegoob/macgenerator/blob/main/LICENSE
+[license-url]: https://github.com/gobblegoob/macgenerator/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/
 [product-screenshot]: images/screenshot.png
