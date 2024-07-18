@@ -50,7 +50,7 @@ if __name__ == "__main__":
         print(f"{Fore.LIGHTRED_EX}{args.delimiter} is an invalid delimiter. Supported delimiters are ':' or '-'{Style.RESET_ALL}")
         quit()
 
-    delimiter = args.delimiter or ":"
+    delimiter = args.delimiter or ""
     mac_list = [mac_add_generate(args.randomized, delimiter) for _ in range(args.count)]
 
     for mac in mac_list:
